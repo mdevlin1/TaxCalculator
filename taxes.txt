@@ -1,0 +1,20 @@
+[
+
+    {
+        "year": 2020,
+        "state": "MD",
+        "state_taxes" : [
+                            {
+                                "state": "MD",
+                                "state_tax_bracket": [100,100,100]
+                            },
+                            {
+                                "state": "VA",
+                                "state_tax_bracket": [200,200,200]
+                            }
+                        ]
+        ,
+        "federal_tax_bracket" : [100,10,10]
+    }
+
+]
